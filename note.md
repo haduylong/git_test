@@ -16,3 +16,9 @@ git log --oneline  // thu gon cua git log
 git checkout {id_ommit} // quay lai thoi diem commit nao do
 
 
+git checkout {branch_name} // quay lai hien tai
+
+git branch 
+
+git checkout -b {branch_name}  // tao branch
+
