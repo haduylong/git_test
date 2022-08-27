@@ -13,7 +13,7 @@ git log // xem lai thoi diem commit
 
 git log --oneline  // thu gon cua git log
 
-git checkout {id_ommit} // quay lai thoi diem commit nao do
+git checkout {id_commit} // quay lai thoi diem commit nao do
 
 
 git checkout {branch_name} // quay lai hien tai
