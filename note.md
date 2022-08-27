@@ -22,3 +22,6 @@ git branch
 
 git checkout -b {branch_name}  // tao branch
 
+git merge {branch_name} // tron vao branch hien tai
+
+git branch -d {branch_name} // xoa branch
