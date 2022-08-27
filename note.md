@@ -26,8 +26,9 @@ git merge {branch_name} // tron vao branch hien tai
 
 git branch -d {branch_name} // xoa branch
 
-git push {url} {branch_name}
+git push {url} {branch_name} // dua du an len github
 
-git remote add {name} {url}
+git remote add {name} {url}  //thay url bang name
 
 git push {name}
+
