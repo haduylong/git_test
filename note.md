@@ -30,5 +30,5 @@ git push {url} {branch_name} // dua du an len github
 
 git remote add {name} {url}  //thay url bang name
 
-git push {name}
+git push {name} {branch_name} //dua du an len github
 
