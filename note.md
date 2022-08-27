@@ -25,3 +25,9 @@ git checkout -b {branch_name}  // tao branch
 git merge {branch_name} // tron vao branch hien tai
 
 git branch -d {branch_name} // xoa branch
+
+git push {url} {branch_name}
+
+git remote add {name} {url}
+
+git push {name}
