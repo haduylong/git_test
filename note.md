@@ -35,8 +35,10 @@ git push {name} {branch_name} //dua du an len github
 git push -u {name} {branch_name} // dua branch tu local len remote
 
 [
-    nap branch tu remote vao local
+    //nap branch tu remote vao local
     git fetch {name}
     git checkout -b {branch_name} {name}/{branch_name}
+    
+    git pull // nap ve thay doi tu remote
 ]
 
